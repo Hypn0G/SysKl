@@ -1,7 +1,7 @@
 - 👋 ¡Hola!, Soy @HypnoG
 - 👀 Estoy interesado en aprender a programar en python.
 - 🌱 Actualmente estoy aprendiendo ciberseguridad.
-- 💞️ Busco colaborar en una empresa de ciberseguridad
+- 🏢 Busco colaborar en una empresa de ciberseguridad
 - 📫 Contactame: contact.me.hypnog@gmail.com
 
 <!---
